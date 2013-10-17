@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/[PhilWaldmann]/[squid3_sentry].png)](https://travis-ci.org/[PhilWaldmann]/[squid3_sentry])
+[![Build Status](https://travis-ci.org/PhilWaldmann/squid3_sentry.png)](https://travis-ci.org/PhilWaldmann/squid3_sentry)
 
 # squid3_sentry
 
